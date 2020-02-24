@@ -1,0 +1,30 @@
+/* theme name : thmweba*/
+
+body{
+    background: rgb(243, 241, 241);
+}
+header{
+    margin: 0 auto;
+}
+ul{
+    margin: 0 auto;
+    margin-top: 0;
+    list-style-type: none;
+    overflow: hidden;
+    background: rgb(2, 116, 192);
+}
+li{
+    float: left;
+}
+li a{
+    margin: 0;
+    text-decoration: none;
+    display: inline-block;
+    color: black;
+    padding: 14px 15px;
+}
+footer{
+    text-align: center;
+    padding: 50px;
+    background: rgb(2, 116, 192);
+}
